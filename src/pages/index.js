@@ -6,6 +6,8 @@ import {
   StoryblokComponent,
 } from "@storyblok/react";
 
+import ImageTextSection from "../components/ImageTextSection";
+
 export default function Home({ story }) {
   story = useStoryblokState(story);
 
@@ -15,7 +17,8 @@ export default function Home({ story }) {
         <title>Home</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <StoryblokComponent blok={story.content} />
+      <ImageTextSection blok={story.content} />
+      {/* <StoryblokComponent blok={story.content} /> */}
     </div>
   );
 }
