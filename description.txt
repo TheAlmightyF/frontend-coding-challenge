@@ -5,7 +5,7 @@ Phase 1 - Preparation
         I categorized topics into those I was unfamiliar with and those I had some prior knowledge about. 
     1.2 I tried to find short introductions to the technologies required and read the provided tutorials and documentations from the readme file.
 
-Phase 2 - Installation and Setup
+Phase 2 - Installation and Setup - timer start
     2.1 I followed the given instructions to the best of my ability.
     2.2 I encountered difficulties setting up a dev server with https proxy
     2.3 I failed to understand how to implement storyblok correctly in the project which consumed a significant amount of time.
