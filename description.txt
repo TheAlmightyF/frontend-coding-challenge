@@ -1,0 +1,17 @@
+I worked on this project in short periods of time, intermittently.
+
+Phase 1 - Preparation
+    1.1 Before tackling the task, I took the time to summarize the given requirements and highlighted the key information necessary to complete the task. 
+        I categorized topics into those I was unfamiliar with and those I had some prior knowledge about. 
+    1.2 I tried to find short introductions to the technologies required and read the provided tutorials and documentations from the readme file.
+
+Phase 2 - Installation and Setup
+    2.1 I followed the given instructions to the best of my ability.
+    2.2 I encountered difficulties setting up a dev server with https proxy
+    2.3 I failed to understand how to implement storyblok correctly in the project which consumed a significant amount of time.
+        I nearly ran out of time here.
+
+Phase 3 - Implementation of the image-text-section component
+    3.1 I used the remaining time to quickly implement the basic image-text-section component without the Storyblok connection.
+
+At the end, I exceeded the allocated time by 10 minutes.
